@@ -28,7 +28,7 @@ export const featuredProjects = [
   {
     id: 'reclaiming-the-night-sky',
     title: 'Reclaiming the Night Sky: Beyond City Lights',
-    description: 'An interactive animation about space and the effects of light pollution using JavaScript and Adobe Animate, with custom Illustrator-designed assets that and a complete interactive solar system.',
+    description: 'An interactive animation about space and the effects of light pollution using JavaScript and Adobe Animate, with custom Illustrator-designed assets and a complete interactive solar system.',
     image: ReclaimingtheNightSkyImg,
     tags: ['Adobe Animate', 'JavaScript', 'Interactive Design'],
     links: [
