@@ -26,20 +26,20 @@ export const featuredProjects = [
     ]
   },
   {
-    id: 'solar-system-explorer',
-    title: 'Interactive Animation Solar System',
-    description: 'An interactive exploration using JavaScript and Adobe Animate with custom Illustrator-designed planetary assets to reveal astronomical distances through progressive click-based navigation.',
-    image: solarSystemImg,
+    id: 'reclaiming-the-night-sky',
+    title: 'Reclaiming the Night Sky: Beyond City Lights',
+    description: 'An interactive animation about space and the effects of light pollution using JavaScript and Adobe Animate, with custom Illustrator-designed assets that and a complete interactive solar system.',
+    image: ReclaimingtheNightSkyImg,
     tags: ['Adobe Animate', 'JavaScript', 'Interactive Design'],
     links: [
       { 
         type: 'github', 
-        url: 'https://github.com/FallingFetch/interactive-animation-solar-system-GDI3100.1', 
+        url: 'https://github.com/FallingFetch/reclaiming-the-night-sky', 
         label: 'GitHub' 
       },
       { 
         type: 'external', 
-        url: 'https://fallingfetch.github.io/interactive-animation-solar-system-GDI3100.1/', 
+        url: 'https://fallingfetch.github.io/reclaiming-the-night-sky/', 
         label: 'Live Demo' 
       }
     ]
