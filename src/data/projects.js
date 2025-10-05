@@ -1,6 +1,6 @@
 // Featured Projects Data
 import somethingFeelsDifferentImg from '../images/Something Feels Different.png';
-import solarSystemImg from '../images/Interactive Animation Solar System.png';
+import ReclaimingtheNightSkyImg from '../images/Reclaiming the Night Sky.png';
 import planetAnimationsImg from '../images/Interactive Planet Animations.png';
 
 export const featuredProjects = [
