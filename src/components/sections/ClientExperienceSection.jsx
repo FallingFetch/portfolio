@@ -50,7 +50,7 @@ const ClientExperienceSection = () => {
                 style={{
                   zIndex: hoveredExperience === index ? 50 : 10,
                   transformOrigin: 'center',
-                  transform: hoveredExperience === index ? 'scale(1.1)' : 'scale(1)',
+                  transform: hoveredExperience === index ? 'scale(1.04)' : 'scale(1)',
                   transition: 'all 0.5s ease-out',
                 }}
               >

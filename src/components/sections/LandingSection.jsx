@@ -59,7 +59,7 @@ const HeroSection = () => {
   }, [displayText, isTyping, currentWordIndex, words, getFullText]);
 
   return (
-    <section id="home" className="min-h-screen flex items-center justify-center relative overflow-hidden pt-28 sm:pt-32 lg:pt-20 pb-16 sm:pb-20">
+    <section id="home" className="min-h-screen flex items-center justify-center relative overflow-hidden pt-28 sm:pt-32 lg:pt-36 pb-16 sm:pb-20">
       {/* Background Gradient */}
       <div className="absolute inset-0 bg-gradient-portfolio-hero"></div>
 
